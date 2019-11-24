@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "hunts": [
+    { "id": 1, "title": "Amazing Race 1" },
+    { "id": 2, "title": "Thang Long Huyen Thoai" },
+    { "id": 3, "title": "Nhiet huyet" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "tasks": [
+    { "id": 1, "body": "task 2 description", "huntId": 1 },
+    { "id": 2, "body": "task 2 description", "huntId": 1 }
   ],
   "profile": {
     "name": "typicode"
